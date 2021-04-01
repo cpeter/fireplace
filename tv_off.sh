@@ -2,3 +2,4 @@
 echo 'standby 0.0.0.0' | cec-client -s -d 1
 sleep 3
 killall -9 omxplayer
+killall -9 omxplayer.bin
